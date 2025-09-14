@@ -44,4 +44,4 @@ Notes
 
 This is a side project — not production-ready.
 
-I built it in public, sharing progress on Twitter.
+I built it in public, sharing progress on X(twitter).
